@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SkinCare</string>
+    <string name="find">Find Products</string>
+    <string name="infoss">Products</string>
+    <string-array name="spinner">
+        <item>Face Care</item>
+        <item>Body Care</item>
+        <item>Hair Care</item>
+    </string-array>
+</resources>
